@@ -13,6 +13,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+-  [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -121,5 +122,11 @@ If you like this project, show your support by giving the project a star ⭐️,
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > I would like to thank Microverse for including this in their curriculum.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/vikas924/Vet-clinic-database/blob/f34a291bee817812ed51481fa6a237019f3a1209/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
