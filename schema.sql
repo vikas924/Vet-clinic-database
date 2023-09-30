@@ -1,4 +1,4 @@
-/* Database schema to keep the structure of entire database. */
+-- Day 1
 
 CREATE TABLE animals (
   id INTEGER PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
@@ -8,3 +8,9 @@ CREATE TABLE animals (
   neutered boolean,
   weight_kg decimal
 );
+
+-- Day 2
+
+-- Add a column species of type string to your animals table. Modify your schema.sql file.
+ALTER TABLE animals
+ADD COLUMN species VARCHAR(255);
